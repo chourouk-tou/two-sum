@@ -1,4 +1,4 @@
-//Ths program finds tow elements in the array whose sum equals the target and prints their indices.  
+//Ths program finds two elements in the array whose sum equals the target and prints their indices.  
 
 #include<stdio.h>
 int main()
